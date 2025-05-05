@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -46,6 +46,7 @@ namespace Phoenix
                 { "Youtube", $"https://www.youtube.com/user/{answer}" },
                 { "Tiktok", $"https://tiktok.com/@{answer}" },
                 { "VK", $"https://vk.com/{answer}" },
+                { "Linktree", $"https://linktr.ee/{answer)" },
                 { "Telegram", $"https://t.me/{answer}" },
                 { "Amino | May not work :( |", $"https://animoapps.com/u/{answer}"  },
                 { "Threads", $"https://threads.net/@{answer}" },
